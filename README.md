@@ -7,7 +7,7 @@ tMovies is a simple movie application built with React JS, Typescript, and Tailw
    
 <h4>
     <a href="https://tmovies-zeta.vercel.app/">View Demo</a>
-  <span> · </span>
+  <span> </span>
 
 <br/>
 <br/>
